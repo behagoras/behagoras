@@ -52,4 +52,4 @@ Building autonomous agents, WhatsApp bots for B2B sales, and pipelines that turn
 
 [![Website](https://img.shields.io/badge/-behar.io-000?&logo=Google-Chrome&logoColor=fff)](https://behar.io)
 [![Email](https://img.shields.io/badge/-david@behar.io-000?&logo=Gmail&logoColor=fff)](mailto:david@behar.io)
-[![LinkedIn](https://img.shields.io/badge/-davidbehar-000?&logo=LinkedIn&logoColor=0A66C2)](https://linkedin.com/in/davidbehar)
+[![LinkedIn](https://img.shields.io/badge/-davidbehar-000?&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/davidbehar)
