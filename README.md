@@ -37,7 +37,7 @@ When I'm not coding, I'm probably losing a board game on purpose so my friends k
 | Project | What it does | Stack |
 |---------|-------------|-------|
 | [nomy-pos](https://github.com/behagoras/nomy-pos) | Point-of-sale system for a jewelry business | TypeScript, React |
-| [chat-with-pdf](https://github.com/behagoras/chat-with-pdf) | RAG-based PDF Q&A with vector search | JavaScript, AI |
+| [chat-with-pdf](https://github.com/behagoras/chat-with-pdf) | Chat with your PDFs from the terminal (npm package) | TypeScript, OpenAI |
 | [behar-ui](https://github.com/behagoras/behar-ui) | Personal design system published to npm | TypeScript, React |
 | [auction-service-sls-ts](https://github.com/behagoras/auction-service-sls-ts) | Serverless auction API with auth and scheduling | TypeScript, AWS Lambda |
 | [behagoras-blog](https://github.com/behagoras/behagoras-blog) | Personal blog and writing | TypeScript, Next.js |
@@ -45,7 +45,7 @@ When I'm not coding, I'm probably losing a board game on purpose so my friends k
 
 ### Right Now
 
-Building AI-powered products: autonomous agents, WhatsApp bots for B2B sales, and pipelines that turn unstructured content into structured knowledge bases. Most of it runs on Claude, Docker, and stubbornness.
+Building autonomous agents, WhatsApp bots for B2B sales, and pipelines that turn messy content into structured knowledge bases. Most of it runs on Claude, Docker, and stubbornness.
 
 ### Connect
 
