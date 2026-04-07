@@ -12,25 +12,26 @@ When I'm not coding, I'm probably losing a board game on purpose so my friends k
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
 
 **Frontend**
 
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
-![Vue](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-000?&logo=TailwindCSS)
+![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
+![Storybook](https://img.shields.io/badge/-Storybook-000?&logo=Storybook)
+![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=Webpack)
 
 **Backend & Cloud**
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![GCP](https://img.shields.io/badge/-GCP-000?&logo=Google-Cloud)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Serverless](https://img.shields.io/badge/-Serverless-000?&logo=Serverless)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL&logoColor=E10098)
+
+**Testing & CI/CD**
+
+![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest&logoColor=C21325)
+![Cypress](https://img.shields.io/badge/-Cypress-000?&logo=Cypress)
+![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins)
 
 ### Featured Projects
 
@@ -41,7 +42,7 @@ When I'm not coding, I'm probably losing a board game on purpose so my friends k
 | [behar-ui](https://github.com/behagoras/behar-ui) | Personal design system published to npm | TypeScript, React |
 | [auction-service-sls-ts](https://github.com/behagoras/auction-service-sls-ts) | Serverless auction API with auth and scheduling | TypeScript, AWS Lambda |
 | [behagoras-blog](https://github.com/behagoras/behagoras-blog) | Personal blog and writing | TypeScript, Next.js |
-| [vue-crypto](https://github.com/behagoras/vue-crypto) | Real-time cryptocurrency tracker | Vue.js |
+| [vue-crypto](https://github.com/behagoras/vue-crypto) | Crypto price tracker from my Vue days | Vue.js |
 
 ### Right Now
 
