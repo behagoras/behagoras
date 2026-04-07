@@ -16,18 +16,22 @@ When I'm not coding, I'm probably losing a board game on purpose so my friends k
 **Frontend**
 
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
+![Storybook](https://img.shields.io/badge/-Storybook-000?&logo=Storybook)
 ![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=Webpack)
 
 **Backend & Cloud**
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Serverless](https://img.shields.io/badge/-Serverless-000?&logo=Serverless)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL&logoColor=E10098)
 
-**Testing**
+**Testing & CI/CD**
 
 ![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest&logoColor=C21325)
 ![Cypress](https://img.shields.io/badge/-Cypress-000?&logo=Cypress)
+![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins)
 
 ### Featured Projects
 
