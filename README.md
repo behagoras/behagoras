@@ -1,6 +1,6 @@
 # David Behar
 
-**Senior Full-Stack Engineer** in Mexico City. Open to remote.
+**Senior Full-Stack Engineer** in Mexico City.
 
 I build products that ship: point-of-sale systems, AI agents, e-commerce platforms, serverless APIs. Ten years of turning "we need this yesterday" into production code, mostly in TypeScript and React, increasingly with AI doing the heavy lifting.
 
